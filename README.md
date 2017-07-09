@@ -17,8 +17,10 @@ Download the repository and move the files to your localhost directory .
 
 ## Directory Structure
 
+<img width="250" alt="screen shot 2017-07-09 at 4 42 11 pm" src="https://user-images.githubusercontent.com/26812068/27993510-c7250f50-64c5-11e7-8ba5-33f21079192b.png">
+
     
-#Browser compatibility
+## Browser compatibility
 
 <ul>
 <li>IE 8+</li>
@@ -29,7 +31,7 @@ Download the repository and move the files to your localhost directory .
 <li>Advantages</li>
 </ul>
 
-#Advantages
+## Advantages
 
 <ul>
 <li>Responsive.</li>
