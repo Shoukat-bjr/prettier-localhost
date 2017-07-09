@@ -15,6 +15,9 @@ After
 
 Download the repository and move the files to your localhost directory .
 
+## Directory Structure
+
+    
 #Browser compatibility
 
 <ul>
@@ -35,5 +38,5 @@ Download the repository and move the files to your localhost directory .
 <li>There is no need for third party libraries.</li>
 <li>Entire table row clickable with jQuery.</li>
 <li>Awesome header.</li>
-<li>Libraries for working with "NoSQL" backends.</li>
+<li>Working with "NoSQL" backends.</li>
 </ul>
